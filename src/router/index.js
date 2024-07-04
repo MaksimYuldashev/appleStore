@@ -31,7 +31,7 @@ const routes = [
         component: Base,
         children: [
             {
-                path: '/appleStore/home',
+                path: '/home',
                 component: HomePage,
                 name: 'home_page'
             },
