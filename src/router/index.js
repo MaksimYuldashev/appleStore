@@ -12,7 +12,7 @@ import FavoritePage from "../pages/FavoritePage.vue";
 
 const routes = [
     {
-      path: '/appleStore/',
+      path: '/appleStore',
       children: [
           {
               path: '',
@@ -27,7 +27,7 @@ const routes = [
       ]
     },
     {
-        path: '/appleStore/',
+        path: '/appleStore',
         component: Base,
         children: [
             {
