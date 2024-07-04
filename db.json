@@ -1,0 +1,717 @@
+{
+  "applePhone": [
+    {
+      "id": "1",
+      "title": "Iphone 13 128GB",
+      "description": "Смартфон Apple iPhone 13 с 6.1-дюймовым экраном и поддержкой 5G",
+      "price": 70000,
+      "currency": "RUB",
+      "imageSrc": "/Phones/appleiphone13.png",
+      "link": "apple-iphone-13",
+      "availability": "В наличии",
+      "features": [
+        "Экран: 6.1 дюймов",
+        "Процессор: Apple A15 Bionic (5 nm)",
+        "Камера: 12 МП",
+        "Батарея: 3240 mAh",
+        "Операционная система: iOS 15"
+      ],
+      "specifications": {
+        "dimensions": "Размер: 146.7 x 71.5 x 7.7 мм",
+        "weight": "Вес: 174 г",
+        "colorOptions": [
+          "Black",
+          "White",
+          "Red",
+          "Green",
+          "Blue"
+        ]
+      }
+    },
+    {
+      "id": "2",
+      "title": "iPhone 13 Mini 128GB",
+      "description": "Смартфон Apple iPhone 13 Mini с 5.4-дюймовым экраном и поддержкой 5G",
+      "price": 65000,
+      "currency": "RUB",
+      "imageSrc": "/Phones/appleiphone13.png",
+      "link": "apple-iphone-13-mini",
+      "availability": "В наличии",
+      "features": [
+        "Экран: 5.4 дюйма",
+        "Процессор: Apple A15 Bionic (5 нм)",
+        "Камера: 12 МП",
+        "Батарея: 2800 mAh",
+        "Операционная система: iOS 15"
+      ],
+      "specifications": {
+        "dimensions": "Размер: 131.5 x 64.2 x 7.7 мм",
+        "weight": "Вес: 140 г",
+        "colorOptions": [
+          "Черный",
+          "Белый",
+          "Красный",
+          "Синий",
+          "Фиолетовый"
+        ]
+      }
+    },
+    {
+      "id": "3",
+      "title": "iPhone 13 Pro Max 128GB",
+      "description": "Смартфон Apple iPhone 13 Pro Max с 6.7-дюймовым экраном и поддержкой 5G",
+      "price": 110000,
+      "currency": "RUB",
+      "imageSrc": "/Phones/iphone13promax.png",
+      "link": "apple-iphone-13-pro-max",
+      "availability": "В наличии",
+      "features": [
+        "Экран: 6.7 дюймов",
+        "Процессор: Apple A15 Bionic (5 нм)",
+        "Камера: Тройная система 12 МП",
+        "Батарея: 4352 mAh",
+        "Операционная система: iOS 15"
+      ],
+      "specifications": {
+        "dimensions": "Размер: 160.8 x 78.1 x 7.65 мм",
+        "weight": "Вес: 238 г",
+        "colorOptions": [
+          "Графит",
+          "Серебро",
+          "Золото",
+          "Серый космос"
+        ]
+      }
+    },
+    {
+      "id": "4",
+      "title": "iPhone 14 256GB",
+      "description": "Смартфон Apple iPhone 14 с 6.1-дюймовым экраном и поддержкой 5G",
+      "price": 80000,
+      "currency": "RUB",
+      "imageSrc": "/Phones/appleiphone13.png",
+      "link": "apple-iphone-14",
+      "availability": "Предзаказ",
+      "features": [
+        "Экран: 6.1 дюймов",
+        "Процессор: Apple A16 Bionic (6 нм)",
+        "Камера: 16 МП",
+        "Батарея: 3600 mAh",
+        "Операционная система: iOS 16"
+      ],
+      "specifications": {
+        "dimensions": "Размер: 146.7 x 71.5 x 7.5 мм",
+        "weight": "Вес: 170 г",
+        "colorOptions": [
+          "Черный",
+          "Белый",
+          "Серебро",
+          "Золото"
+        ]
+      }
+    },
+    {
+      "id": "5",
+      "title": "iPhone 14 Pro",
+      "description": "Смартфон Apple iPhone 14 Pro с 6.7-дюймовым экраном и поддержкой 5G",
+      "price": 120000,
+      "currency": "RUB",
+      "imageSrc": "/Phones/iphone14pro.png",
+      "link": "apple-iphone-14-pro",
+      "availability": "Предзаказ",
+      "features": [
+        "Экран: 6.7 дюймов",
+        "Процессор: Apple A16 Bionic (6 нм)",
+        "Камера: Тройная система 16 МП",
+        "Батарея: 4000 mAh",
+        "Операционная система: iOS 16"
+      ],
+      "specifications": {
+        "dimensions": "Размер: 160.8 x 78.1 x 7.5 мм",
+        "weight": "Вес: 209 г",
+        "colorOptions": [
+          "Графит",
+          "Серебро",
+          "Золото",
+          "Серый космос"
+        ]
+      }
+    },
+    {
+      "id": "6",
+      "title": "iPhone 14 Pro Max",
+      "description": "Смартфон Apple iPhone 14 Pro Max с 6.9-дюймовым экраном и поддержкой 5G",
+      "price": 130000,
+      "currency": "RUB",
+      "imageSrc": "/Phones/iphone14pro.png",
+      "link": "apple-iphone-14-pro-max",
+      "availability": "Предзаказ",
+      "features": [
+        "Экран: 6.9 дюймов",
+        "Процессор: Apple A16 Bionic (6 нм)",
+        "Камера: Тройная система 16 МП",
+        "Батарея: 4500 mAh",
+        "Операционная система: iOS 16"
+      ],
+      "specifications": {
+        "dimensions": "Размер: 160.8 x 78.1 x 7.7 мм",
+        "weight": "Вес: 220 г",
+        "colorOptions": [
+          "Графит",
+          "Серебро",
+          "Золото",
+          "Серый космос"
+        ]
+      }
+    },
+    {
+      "id": "7",
+      "title": "iPhone 14 Mini",
+      "description": "Смартфон Apple iPhone 14 Mini с 5.3-дюймовым экраном и поддержкой 5G",
+      "price": 70000,
+      "currency": "RUB",
+      "imageSrc": "/Phones/iphone14pro.png",
+      "link": "apple-iphone-14-mini",
+      "availability": "Предзаказ",
+      "features": [
+        "Экран: 5.3 дюйма",
+        "Процессор: Apple A16 Bionic (6 нм)",
+        "Камера: 14 МП",
+        "Батарея: 3200 mAh",
+        "Операционная система: iOS 16"
+      ],
+      "specifications": {
+        "dimensions": "Размер: 131.5 x 64.2 x 7.5 мм",
+        "weight": "Вес: 143 г",
+        "colorOptions": [
+          "Черный",
+          "Белый",
+          "Серебро",
+          "Золото"
+        ]
+      }
+    },
+    {
+      "id": "8",
+      "title": "iPhone 14 Plus",
+      "description": "Смартфон Apple iPhone 14 Plus с 6.5-дюймовым экраном и поддержкой 5G",
+      "price": 100000,
+      "currency": "RUB",
+      "imageSrc": "/Phones/iphone14plus.png",
+      "link": "apple-iphone-14-plus",
+      "availability": "Предзаказ",
+      "features": [
+        "Экран: 6.5 дюймов",
+        "Процессор: Apple A16 Bionic (6 нм)",
+        "Камера: 16 МП",
+        "Батарея: 3800 mAh",
+        "Операционная система: iOS 16"
+      ],
+      "specifications": {
+        "dimensions": "Размер: 146.7 x 71.5 x 7.5 мм",
+        "weight": "Вес: 180 г",
+        "colorOptions": [
+          "Черный",
+          "Белый",
+          "Серебро",
+          "Золото"
+        ]
+      }
+    },
+    {
+      "id": "9",
+      "title": "iPhone 14 Pro Mini",
+      "description": "Смартфон Apple iPhone 14 Pro Mini с 5.7-дюймовым экраном и поддержкой 5G",
+      "price": 95000,
+      "currency": "RUB",
+      "imageSrc": "/Phones/iphone14pro.png",
+      "link": "apple-iphone-14-pro-mini",
+      "availability": "Предзаказ",
+      "features": [
+        "Экран: 5.7 дюйма",
+        "Процессор: Apple A16 Bionic (6 нм)",
+        "Камера: Тройная система 16 МП",
+        "Батарея: 3700 mAh",
+        "Операционная система: iOS 16"
+      ],
+      "specifications": {
+        "dimensions": "Размер: 143.8 x 69.9 x 7.5 мм",
+        "weight": "Вес: 165 г",
+        "colorOptions": [
+          "Графит",
+          "Серебро",
+          "Золото",
+          "Серый космос"
+        ]
+      }
+    },
+    {
+      "id": "10",
+      "title": "iPhone 15 PRO 512GB",
+      "description": "Смартфон Apple iPhone 15 PRO с 6.1-дюймовым экраном и поддержкой 5G",
+      "price": 210000,
+      "currency": "RUB",
+      "imageSrc": "/Phones/iphone15pro.png",
+      "link": "apple-iphone-14-air-max",
+      "availability": "Предзаказ",
+      "features": [
+        "Экран: 6.1 дюйма",
+        "Процессор: Apple A17 Pro",
+        "Камера: 48  МП",
+        "Батарея: 4200 mAh",
+        "Операционная система: iOS 15"
+      ],
+      "specifications": {
+        "dimensions": "Размер: 146.7 x 71.5 x 7.5 мм",
+        "weight": "Вес: 185 г",
+        "colorOptions": [
+          "Черный"
+        ]
+      }
+    },
+    {
+      "id": "11",
+      "title": "iPhone XR",
+      "description": "Смартфон Apple iPhone XR с 6.1-дюймовым экраном и поддержкой 4G",
+      "price": 55000,
+      "currency": "RUB",
+      "imageSrc": "/Phones/iphonexr.png",
+      "link": "apple-iphone-13-xr",
+      "availability": "Предзаказ",
+      "features": [
+        "Экран: 6.1 дюймов",
+        "Процессор: Apple A15 Bionic (5 нм)",
+        "Камера: 12 МП",
+        "Батарея: 3700 mAh",
+        "Операционная система: iOS 14"
+      ],
+      "specifications": {
+        "dimensions": "Размер: 146.7 x 71.5 x 7.7 мм",
+        "weight": "Вес: 180 г",
+        "colorOptions": [
+          "Черный",
+          "Белый",
+          "Красный",
+          "Синий"
+        ]
+      }
+    }
+  ],
+  "wiredHeadphones": [
+    {
+      "id": "1",
+      "title": "Apple EarPods с разъемом Lightning",
+      "description": "Оригинальные проводные наушники Apple с поддержкой технологии Lightning для удобного подключения к устройствам",
+      "price": 2990,
+      "currency": "RUB",
+      "imageSrc": "/ImageHeadPhone/iphoneearpodslightning.png",
+      "link": "apple-earpods-lightning",
+      "availability": "in stock",
+      "features": [
+        "Частотный диапазон: 20 Гц - 20 кГц"
+      ],
+      "specifications": {
+        "weight": "Вес: 12 г",
+        "colorOptions": [
+          "Белый"
+        ]
+      }
+    },
+    {
+      "id": "2",
+      "title": "Apple EarPods с разъемом 3.5 мм",
+      "description": "Проводные наушники Apple с классическим разъемом 3.5 мм, обеспечивающие превосходное качество звука",
+      "price": 2490,
+      "currency": "RUB",
+      "imageSrc": "/ImageHeadPhone/iphoneheadphone.png",
+      "link": "apple-earpods-3-5mm",
+      "availability": "in stock",
+      "features": [
+        "Качество звука: Hi-Fi",
+        "Разъем: 3.5 мм",
+        "Встроенный микрофон и пульт управления",
+        "Частотный диапазон: 20 Гц - 20 кГц"
+      ],
+      "specifications": {
+        "weight": "Вес: 12 г",
+        "colorOptions": [
+          "White"
+        ]
+      }
+    },
+    {
+      "id": "3",
+      "title": "Apple In-Ear Headphones with Remote and Mic",
+      "description": "Эргономичные проводные наушники Apple с микрофоном и пультом управления для комфортного использования и удобного управления",
+      "price": 5490,
+      "currency": "RUB",
+      "imageSrc": "/ImageHeadPhone/iphoneheadphone2.png",
+      "link": "apple-in-ear-remote-mic",
+      "availability": "in stock",
+      "features": [
+        "Качество звука: Hi-Fi",
+        "Удобный дизайн для длительного использования",
+        "Встроенный микрофон и пульт управления",
+        "Частотный диапазон: 5 Гц - 21 кГц"
+      ],
+      "specifications": {
+        "weight": "Вес: 10 г",
+        "colorOptions": [
+          "White"
+        ]
+      }
+    },
+    {
+      "id": "4",
+      "title": "Apple EarPods с разъемом USB-C",
+      "description": "Проводные наушники Apple с разъемом USB-C, обеспечивающие отличное качество звука и удобное подключение к современным устройствам",
+      "price": 3490,
+      "currency": "RUB",
+      "imageSrc": "/ImageHeadPhone/iphoneheadphone3.png",
+      "link": "apple-earpods-usb-c",
+      "availability": "in stock",
+      "features": [
+        "Качество звука: Hi-Fi",
+        "Разъем: USB-C",
+        "Встроенный микрофон и пульт управления",
+        "Частотный диапазон: 20 Гц - 20 кГц"
+      ],
+      "specifications": {
+        "weight": "Вес: 12 г",
+        "colorOptions": [
+          "White"
+        ]
+      }
+    },
+    {
+      "id": "5",
+      "title": "Apple In-Ear Headphones with Lightning Connector",
+      "description": "Универсальные проводные наушники Apple с разъемом Lightning, обеспечивающие высокое качество звука и удобное подключение",
+      "price": 3990,
+      "currency": "RUB",
+      "imageSrc": "/ImageHeadPhone/iphoneheadphone4.png",
+      "link": "apple-in-ear-lightning",
+      "availability": "in stock",
+      "features": [
+        "Качество звука: Hi-Fi",
+        "Разъем: Lightning",
+        "Удобный дизайн для длительного использования",
+        "Частотный диапазон: 20 Гц - 20 кГц"
+      ],
+      "specifications": {
+        "weight": "Вес: 12 г",
+        "colorOptions": [
+          "White"
+        ]
+      }
+    },
+    {
+      "id": "6",
+      "title": "Apple EarPods Pro",
+      "description": "Проводные наушники Apple с технологией активного шумоподавления и высококачественным звуком",
+      "price": 12990,
+      "currency": "RUB",
+      "imageSrc": "/ImageHeadPhone/iphoneheadphone3.png",
+      "link": "apple-earpods-pro",
+      "availability": "in stock",
+      "features": [
+        "Качество звука: Hi-Fi с активным шумоподавлением",
+        "Встроенный микрофон и пульт управления",
+        "Автономная работа до 4.5 часов с ANC включенным",
+        "Частотный диапазон: 20 Гц - 20 кГц"
+      ],
+      "specifications": {
+        "weight": "Вес: 5.4 г каждый наушник, 45.6 г чехол",
+        "colorOptions": [
+          "White"
+        ]
+      }
+    },
+    {
+      "id": "7",
+      "title": "Apple In-Ear Headphones with 3.5mm Connector",
+      "description": "Компактные и стильные проводные наушники Apple с классическим разъемом 3.5 мм, обеспечивающие чистый звук и комфортное ношение",
+      "price": 2790,
+      "currency": "RUB",
+      "imageSrc": "/ImageHeadPhone/iphoneheadphone5.png",
+      "link": "apple-in-ear-35mm",
+      "availability": "in stock",
+      "features": [
+        "Качество звука: Hi-Fi",
+        "Разъем: 3.5 мм",
+        "Комплект из трех пар сменных амбюшур разного размера",
+        "Частотный диапазон: 20 Гц - 20 кГц"
+      ],
+      "specifications": {
+        "weight": "Вес: 10 г",
+        "colorOptions": [
+          "White"
+        ]
+      }
+    },
+    {
+      "id": "8",
+      "title": "Apple EarPods с микрофоном и управлением на проводе",
+      "description": "Проводные наушники Apple с микрофоном и пультом управления на проводе для удобного прослушивания музыки и разговоров",
+      "price": 1990,
+      "currency": "RUB",
+      "imageSrc": "/ImageHeadPhone/iphoneheadphone3.png",
+      "link": "apple-earpods-mic",
+      "availability": "in stock",
+      "features": [
+        "Качество звука: Hi-Fi",
+        "Встроенный микрофон и пульт управления",
+        "Удобное крепление в ушах",
+        "Частотный диапазон: 20 Гц - 20 кГц"
+      ],
+      "specifications": {
+        "weight": "Вес: 12 г",
+        "colorOptions": [
+          "White"
+        ]
+      }
+    },
+    {
+      "id": "9",
+      "title": "Apple EarPods с адаптером Lightning to 3.5mm",
+      "description": "Проводные наушники Apple с разъемом Lightning и адаптером для подключения к разъему 3.5 мм, обеспечивающие отличное качество звука и универсальное подключение",
+      "price": 3290,
+      "currency": "RUB",
+      "imageSrc": "/ImageHeadPhone/iphoneheadphone3.png",
+      "link": "apple-earpods-lightning-adapter",
+      "availability": "in stock",
+      "features": [
+        "Качество звука: Hi-Fi",
+        "Разъем: Lightning и адаптер 3.5 мм",
+        "Встроенный микрофон и пульт управления",
+        "Частотный диапазон: 20 Гц - 20 кГц"
+      ],
+      "specifications": {
+        "weight": "Вес: 12 г",
+        "colorOptions": [
+          "White"
+        ]
+      }
+    }
+  ],
+  "wirelessHeadphones": [
+    {
+      "id": "1",
+      "title": "Apple AirPods 2",
+      "description": "Популярные беспроводные наушники Apple с технологией H1 для быстрого подключения и стабильной работы",
+      "price": 12990,
+      "currency": "RUB",
+      "imageSrc": "/wirelesHeadPhone/headphone1.png",
+      "link": "apple-airpods-2",
+      "availability": "in stock",
+      "features": [
+        "Bluetooth: 5.0",
+        "Технология подключения: H1",
+        "Автономная работа до 5 часов",
+        "Частотный диапазон: 20 Гц - 20 кГц"
+      ],
+      "specifications": {
+        "weight": "Вес: 4 г каждый наушник, 38 г чехол",
+        "colorOptions": [
+          "White"
+        ]
+      }
+    },
+    {
+      "id": "2",
+      "title": "Apple AirPods Max",
+      "description": "Популярные беспроводные наушники Apple AirPods Max",
+      "price": 50000,
+      "currency": "RUB",
+      "imageSrc": "/wirelesHeadPhone/headphone2.png",
+      "link": "apple-airpods-max",
+      "availability": "in stock",
+      "features": [
+        "Bluetooth: 5.0",
+        "Технология подключения: H1",
+        "Автономная работа до 12 часов",
+        "Частотный диапазон: 20 Гц - 20 кГц"
+      ],
+      "specifications": {
+        "weight": "Вес: 384.5 г",
+        "colorOptions": [
+          "Black"
+        ]
+      }
+    },
+    {
+      "id": "3",
+      "title": "Apple AirPods Pro",
+      "description": "Популярные беспроводные наушники Apple AirPods Pro",
+      "price": 12000,
+      "currency": "RUB",
+      "imageSrc": "/wirelesHeadPhone/headphone3.png",
+      "link": "apple-airpods-pro",
+      "availability": "in stock",
+      "features": [
+        "Bluetooth: 5.0",
+        "Технология подключения: H1",
+        "Автономная работа до 4.5 часов",
+        "Частотный диапазон: 20 Гц - 20 кГц"
+      ],
+      "specifications": {
+        "weight": "Вес: 200 г",
+        "colorOptions": [
+          "White"
+        ]
+      }
+    },
+    {
+      "id": "4",
+      "title": "Apple AirPods Studio",
+      "description": "Студийные беспроводные наушники Apple AirPods Studio с выдающимся качеством звука и комфортной посадкой для профессионального прослушивания",
+      "price": 42990,
+      "currency": "RUB",
+      "imageSrc": "/wirelesHeadPhone/headphone4.png",
+      "link": "apple-airpods-studio",
+      "availability": "in stock",
+      "features": [
+        "Bluetooth: 5.0",
+        "Технология подключения: H1",
+        "Активное шумоподавление: ANC",
+        "Автономная работа до 20 часов",
+        "Частотный диапазон: 20 Гц - 20 кГц"
+      ],
+      "specifications": {
+        "weight": "Вес: 385 г",
+        "colorOptions": [
+          "Space Gray",
+          "Silver",
+          "Sky Blue",
+          "Green",
+          "Pink"
+        ]
+      }
+    },
+    {
+      "id": "5",
+      "title": "Apple AirPods Pro 2",
+      "description": "Следующее поколение популярных беспроводных наушников Apple AirPods Pro с улучшенным активным шумоподавлением и качеством звука",
+      "price": 14990,
+      "currency": "RUB",
+      "imageSrc": "/wirelesHeadPhone/headphone3.png",
+      "link": "apple-airpods-pro-2",
+      "availability": "in stock",
+      "features": [
+        "Bluetooth: 5.0",
+        "Технология подключения: H1",
+        "Улучшенное активное шумоподавление: ANC",
+        "Автономная работа до 5 часов",
+        "Частотный диапазон: 20 Гц - 20 кГц"
+      ],
+      "specifications": {
+        "weight": "Вес: 5.4 г каждый наушник, 45.6 г чехол",
+        "colorOptions": [
+          "White"
+        ]
+      }
+    }
+  ],
+  "carHolders": [
+    {
+      "id": "1",
+      "title": "Стедикам DJI OM 6",
+      "description": "Надежный автодержатель для телефона, совместимый с большинством моделей",
+      "price": 3200,
+      "currency": "RUB",
+      "imageSrc": "/CarHolder/CarHolder.png",
+      "link": "car-holder-DJI-OM-6",
+      "availability": "in stock",
+      "features": [
+        "Совместимость: все модели телефонов",
+        "Материал: пластик",
+        "Регулируемый угол наклона",
+        "Антискользящее покрытие"
+      ],
+      "specifications": {
+        "weight": "Вес: 309 г",
+        "colorOptions": [
+          "Black"
+        ]
+      }
+    },
+    {
+      "id": "2",
+      "title": "Joby GorillaPod Mobile Vlogging Kit",
+      "description": "Комплект Joby GorillaPod Mobile Vlogging Kit: штатив, осветитель, микрофон",
+      "price": 17990,
+      "currency": "RUB",
+      "imageSrc": "/CarHolder/carholder2.png",
+      "link": "car-holder-joby-gorillaPod-mobile-vlogging-kit",
+      "availability": "in stock",
+      "features": [
+        "Совместимость: все модели телефонов",
+        "Материал: алюминий",
+        "Регулируемый угол наклона",
+        "Антискользящее покрытие"
+      ],
+      "specifications": {
+        "weight": "Вес: 279 г",
+        "colorOptions": [
+          "Black"
+        ]
+      }
+    },
+    {
+      "id": "3",
+      "title": "Belkin MagSafe",
+      "description": "Автомобильный держатель Belkin MagSafe с БЗУ + АЗУ",
+      "price": 8990,
+      "currency": "RUB",
+      "imageSrc": "/CarHolder/carholder3.png",
+      "link": "car-holder-belkin-magSafe",
+      "availability": "in stock",
+      "features": [
+        "Совместимость: только для телефонов Apple",
+        "Материал: пластик",
+        "Регулируемый угол наклона",
+        "Антискользящее покрытие"
+      ],
+      "specifications": {
+        "weight": "Вес: 21 г",
+        "colorOptions": [
+          "Black"
+        ]
+      }
+    }
+  ],
+  "favorites": [],
+  "basket": [],
+  "users": [
+    {
+      "email": "asdas@mail.com",
+      "password": "$2a$10$ceZrOmL1tLtxarGfWZ/zP.NIY6Vw7wmnZMjUeF4vFM1vdwVgvSaey",
+      "id": 1
+    },
+    {
+      "email": "fwefnk@mail.com",
+      "password": "$2a$10$pFjlQDPaJV0oHAo7B8MrE.oNUOpkUrga3T0gYHfMK4U1ZL2J7jBJa",
+      "id": 2
+    },
+    {
+      "email": "qwe@mail.com",
+      "password": "$2a$10$W4NCQzXLhq1S8I3SBlQNjuIfm8OR7PvDvarOzRav1NUxF7KMqKuqa",
+      "id": 3
+    },
+    {
+      "email": "asd@mail.com",
+      "password": "$2a$10$rcQnfHI6J1/IaIqhwHfkTu/v8WvL42Ht2euqPLFsg.ydD8LkU63By",
+      "id": 4
+    },
+    {
+      "email": "asdasd@mail.com",
+      "password": "$2a$10$FxP3vIE2Ne7DnfQtUqSL0e1FPgWnOdFdOUkRI/pO61guiwPXTKJeW",
+      "id": 5
+    },
+    {
+      "email": "qwer123@mail.ru",
+      "password": "$2a$10$E3M49oA4fiMLFDAuL223s.2BKx0/rv4gAARlMInbZQaQu.33yNk0O",
+      "id": 6
+    }
+  ]
+}
